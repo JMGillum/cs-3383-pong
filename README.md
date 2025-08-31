@@ -1,5 +1,6 @@
 # cs-3383-pong
 ## Quick Start
+* Download the archive associated with your operating system and extract it.
 * Execute the start file associated with your operating system
 * Your paddle is on the left
   * Use the arrow keys (or 'w'/'s') to move the paddle up and down.
